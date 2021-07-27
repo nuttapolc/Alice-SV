@@ -1,0 +1,23 @@
+(07/22/2021 20:16:51) [ Debug ] : (char_mmo_char_tosql) mapindex_id2name: Requested name for non-existant map index [1062] in cache.
+(07/22/2021 20:21:26) [ Debug ] : (char_mmo_char_tosql) mapindex_id2name: Requested name for non-existant map index [1062] in cache.
+(07/22/2021 20:26:26) [ Debug ] : (char_mmo_char_tosql) mapindex_id2name: Requested name for non-existant map index [1062] in cache.
+(07/22/2021 20:26:52) [ Debug ] : (char_mmo_chars_fromsql) mapindex_name2id: Map "" not found in index list!
+(07/22/2021 20:26:52) [ Debug ] : (char_mmo_char_tobuf) mapindex_id2name: Requested name for non-existant map index [0] in cache.
+(07/22/2021 20:26:52) [ Debug ] : (char_mmo_chars_fromsql) mapindex_name2id: Map "" not found in index list!
+(07/22/2021 20:26:52) [ Debug ] : (char_mmo_char_tobuf) mapindex_id2name: Requested name for non-existant map index [0] in cache.
+(07/22/2021 20:26:53) [ Debug ] : (char_mmo_char_fromsql) mapindex_name2id: Map "" not found in index list!
+(07/23/2021 00:25:17) [ SQL Error ] : DB error - Connection was killed
+(07/23/2021 00:25:17) [ Debug ] : at int_mail.cpp:254 - SELECT `id`,`char_id`,`account_id` FROM `mail` `m` INNER JOIN `char` `c` ON `c`.`char_id`=`m`.`dest_id` WHERE `type` = '2' AND `time` <= UNIX_TIMESTAMP( NOW() - INTERVAL 15 DAY ) ORDER BY `id` LIMIT 31
+(07/25/2021 02:23:27) [ SQL Error ] : Access denied for user 'alice_sys'@'127.0.0.1' to database 'alice_log_db'
+(07/25/2021 02:23:27) [ Error ] : Couldn't connect with username = 'alice_sys', password = 'Yd2Cn76DK3', host = '127.0.0.1', port = '3306', database = 'alice_log_db'
+(07/25/2021 02:23:27) [ Debug ] : at inter.cpp:942
+(07/25/2021 02:26:40) [ SQL Error ] : Access denied for user 'alice_sys'@'127.0.0.1' to database 'alice_log_db'
+(07/25/2021 02:26:40) [ Error ] : Couldn't connect with username = 'alice_sys', password = 'Yd2Cn76DK3', host = '127.0.0.1', port = '3306', database = 'alice_log_db'
+(07/25/2021 02:26:40) [ Debug ] : at inter.cpp:942
+(07/25/2021 02:27:48) [ SQL Error ] : Access denied for user 'alice_sys'@'127.0.0.1' to database 'alice_log_db'
+(07/25/2021 02:27:48) [ Error ] : Couldn't connect with username = 'alice_sys', password = 'Yd2Cn76DK3', host = '127.0.0.1', port = '3306', database = 'alice_log_db'
+(07/25/2021 02:27:48) [ Debug ] : at inter.cpp:942
+(07/25/2021 02:30:31) [ SQL Error ] : DB error - Unknown column 'rank_exp' in 'field list'
+(07/25/2021 02:30:31) [ Debug ] : at char.cpp:2327 - SELECT `char_id`,`account_id`,`char_num`,`name`,`class`,`base_level`,`job_level`,`base_exp`,`job_exp`,`rank_exp`,`zeny`,`str`,`agi`,`vit`,`int`,`dex`,`luk`,`max_hp`,`hp`,`max_sp`,`sp`,`status_point`,`skill_point`,`option`,`karma`,`manner`,`party_id`,`guild_id`,`pet_id`,`homun_id`,`elemental_id`,`hair`,`hair_color`,`clothes_color`,`weapon`,`shield`,`head_top`,`head_mid`,`head_bottom`,`robe`,`last_map`,`last_x`,`last_y`,`save_map`,`save_x`,`save_y`,`partner_id`,`online`,`father`,`mother`,`child`,`fame`,`rename`,`delete_date`,`moves`,`unban_time`,`font`,`sex`,`hotkey_rowshift`,`clan_id`,`last_login`,`title_id`,`show_equip` FROM `char` LIMIT 1;
+(07/25/2021 02:38:33) [ SQL Error ] : DB error - Unknown column 'rank_exp' in 'field list'
+(07/25/2021 02:38:33) [ Debug ] : at char.cpp:2327 - SELECT `char_id`,`account_id`,`char_num`,`name`,`class`,`base_level`,`job_level`,`base_exp`,`job_exp`,`rank_exp`,`zeny`,`str`,`agi`,`vit`,`int`,`dex`,`luk`,`max_hp`,`hp`,`max_sp`,`sp`,`status_point`,`skill_point`,`option`,`karma`,`manner`,`party_id`,`guild_id`,`pet_id`,`homun_id`,`elemental_id`,`hair`,`hair_color`,`clothes_color`,`weapon`,`shield`,`head_top`,`head_mid`,`head_bottom`,`robe`,`last_map`,`last_x`,`last_y`,`save_map`,`save_x`,`save_y`,`partner_id`,`online`,`father`,`mother`,`child`,`fame`,`rename`,`delete_date`,`moves`,`unban_time`,`font`,`sex`,`hotkey_rowshift`,`clan_id`,`last_login`,`title_id`,`show_equip` FROM `char` LIMIT 1;

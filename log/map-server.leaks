@@ -1,0 +1,390 @@
+
+Memory manager: Memory leaks found at 2021/07/20 02h54m15s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7fa9dcfa7234
+0002 : script.cpp line 2490 size 512 address 0x0x7fa9dcfa7454
+0003 : script.cpp line 2490 size 512 address 0x0x7fa9dcfa7674
+0004 : script.cpp line 2490 size 512 address 0x0x7fa9dcfa7894
+0005 : script.cpp line 2490 size 512 address 0x0x7fa9dcfa7ab4
+0006 : script.cpp line 2490 size 512 address 0x0x7fa9dcfa7cd4
+0007 : script.cpp line 2490 size 512 address 0x0x7fa9dcfa7ef4
+0008 : script.cpp line 2490 size 512 address 0x0x7fa9dcfa8114
+
+Memory manager: Memory leaks found at 2021/07/20 03h41m24s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f494d165234
+0002 : script.cpp line 2490 size 512 address 0x0x7f494d165454
+0003 : script.cpp line 2490 size 512 address 0x0x7f494d165674
+0004 : script.cpp line 2490 size 512 address 0x0x7f494d165894
+0005 : script.cpp line 2490 size 512 address 0x0x7f494d165ab4
+0006 : script.cpp line 2490 size 512 address 0x0x7f494d165cd4
+0007 : script.cpp line 2490 size 512 address 0x0x7f494d165ef4
+0008 : script.cpp line 2490 size 512 address 0x0x7f494d166114
+
+Memory manager: Memory leaks found at 2021/07/21 18h54m55s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f892533587c
+0002 : script.cpp line 2490 size 512 address 0x0x7f8925335a9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f8925335cbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f8925335edc
+0005 : script.cpp line 2490 size 512 address 0x0x7f89253360fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f892533631c
+0007 : script.cpp line 2490 size 512 address 0x0x7f892533653c
+0008 : script.cpp line 2490 size 512 address 0x0x7f892533675c
+
+Memory manager: Memory leaks found at 2021/07/21 18h56m21s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f73f091a87c
+0002 : script.cpp line 2490 size 512 address 0x0x7f73f091aa9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f73f091acbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f73f091aedc
+0005 : script.cpp line 2490 size 512 address 0x0x7f73f091b0fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f73f091b31c
+0007 : script.cpp line 2490 size 512 address 0x0x7f73f091b53c
+0008 : script.cpp line 2490 size 512 address 0x0x7f73f091b75c
+
+Memory manager: Memory leaks found at 2021/07/21 19h06m51s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7fb67a3e687c
+0002 : script.cpp line 2490 size 512 address 0x0x7fb67a3e6a9c
+0003 : script.cpp line 2490 size 512 address 0x0x7fb67a3e6cbc
+0004 : script.cpp line 2490 size 512 address 0x0x7fb67a3e6edc
+0005 : script.cpp line 2490 size 512 address 0x0x7fb67a3e70fc
+0006 : script.cpp line 2490 size 512 address 0x0x7fb67a3e731c
+0007 : script.cpp line 2490 size 512 address 0x0x7fb67a3e753c
+0008 : script.cpp line 2490 size 512 address 0x0x7fb67a3e775c
+
+Memory manager: Memory leaks found at 2021/07/21 19h08m42s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7fa37ca8d87c
+0002 : script.cpp line 2490 size 512 address 0x0x7fa37ca8da9c
+0003 : script.cpp line 2490 size 512 address 0x0x7fa37ca8dcbc
+0004 : script.cpp line 2490 size 512 address 0x0x7fa37ca8dedc
+0005 : script.cpp line 2490 size 512 address 0x0x7fa37ca8e0fc
+0006 : script.cpp line 2490 size 512 address 0x0x7fa37ca8e31c
+0007 : script.cpp line 2490 size 512 address 0x0x7fa37ca8e53c
+0008 : script.cpp line 2490 size 512 address 0x0x7fa37ca8e75c
+
+Memory manager: Memory leaks found at 2021/07/21 19h18m50s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f3e368a387c
+0002 : script.cpp line 2490 size 512 address 0x0x7f3e368a3a9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f3e368a3cbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f3e368a3edc
+0005 : script.cpp line 2490 size 512 address 0x0x7f3e368a40fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f3e368a431c
+0007 : script.cpp line 2490 size 512 address 0x0x7f3e368a453c
+0008 : script.cpp line 2490 size 512 address 0x0x7f3e368a475c
+
+Memory manager: Memory leaks found at 2021/07/21 19h19m25s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f5fdb64387c
+0002 : script.cpp line 2490 size 512 address 0x0x7f5fdb643a9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f5fdb643cbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f5fdb643edc
+0005 : script.cpp line 2490 size 512 address 0x0x7f5fdb6440fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f5fdb64431c
+0007 : script.cpp line 2490 size 512 address 0x0x7f5fdb64453c
+0008 : script.cpp line 2490 size 512 address 0x0x7f5fdb64475c
+
+Memory manager: Memory leaks found at 2021/07/21 19h20m51s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f3cc403f87c
+0002 : script.cpp line 2490 size 512 address 0x0x7f3cc403fa9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f3cc403fcbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f3cc403fedc
+0005 : script.cpp line 2490 size 512 address 0x0x7f3cc40400fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f3cc404031c
+0007 : script.cpp line 2490 size 512 address 0x0x7f3cc404053c
+0008 : script.cpp line 2490 size 512 address 0x0x7f3cc404075c
+
+Memory manager: Memory leaks found at 2021/07/21 19h22m27s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7fcb3f96e87c
+0002 : script.cpp line 2490 size 512 address 0x0x7fcb3f96ea9c
+0003 : script.cpp line 2490 size 512 address 0x0x7fcb3f96ecbc
+0004 : script.cpp line 2490 size 512 address 0x0x7fcb3f96eedc
+0005 : script.cpp line 2490 size 512 address 0x0x7fcb3f96f0fc
+0006 : script.cpp line 2490 size 512 address 0x0x7fcb3f96f31c
+0007 : script.cpp line 2490 size 512 address 0x0x7fcb3f96f53c
+0008 : script.cpp line 2490 size 512 address 0x0x7fcb3f96f75c
+
+Memory manager: Memory leaks found at 2021/07/21 19h24m09s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f18bc6c287c
+0002 : script.cpp line 2490 size 512 address 0x0x7f18bc6c2a9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f18bc6c2cbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f18bc6c2edc
+0005 : script.cpp line 2490 size 512 address 0x0x7f18bc6c30fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f18bc6c331c
+0007 : script.cpp line 2490 size 512 address 0x0x7f18bc6c353c
+0008 : script.cpp line 2490 size 512 address 0x0x7f18bc6c375c
+
+Memory manager: Memory leaks found at 2021/07/22 18h19m46s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f083d02e87c
+0002 : script.cpp line 2490 size 512 address 0x0x7f083d02ea9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f083d02ecbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f083d02eedc
+0005 : script.cpp line 2490 size 512 address 0x0x7f083d02f0fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f083d02f31c
+0007 : script.cpp line 2490 size 512 address 0x0x7f083d02f53c
+0008 : script.cpp line 2490 size 512 address 0x0x7f083d02f75c
+
+Memory manager: Memory leaks found at 2021/07/22 18h25m36s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7ff3be8db87c
+0002 : script.cpp line 2490 size 512 address 0x0x7ff3be8dba9c
+0003 : script.cpp line 2490 size 512 address 0x0x7ff3be8dbcbc
+0004 : script.cpp line 2490 size 512 address 0x0x7ff3be8dbedc
+0005 : script.cpp line 2490 size 512 address 0x0x7ff3be8dc0fc
+0006 : script.cpp line 2490 size 512 address 0x0x7ff3be8dc31c
+0007 : script.cpp line 2490 size 512 address 0x0x7ff3be8dc53c
+0008 : script.cpp line 2490 size 512 address 0x0x7ff3be8dc75c
+
+Memory manager: Memory leaks found at 2021/07/22 18h27m57s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f5ff9a4887c
+0002 : script.cpp line 2490 size 512 address 0x0x7f5ff9a48a9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f5ff9a48cbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f5ff9a48edc
+0005 : script.cpp line 2490 size 512 address 0x0x7f5ff9a490fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f5ff9a4931c
+0007 : script.cpp line 2490 size 512 address 0x0x7f5ff9a4953c
+0008 : script.cpp line 2490 size 512 address 0x0x7f5ff9a4975c
+
+Memory manager: Memory leaks found at 2021/07/22 18h30m35s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f9a1a65087c
+0002 : script.cpp line 2490 size 512 address 0x0x7f9a1a650a9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f9a1a650cbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f9a1a650edc
+0005 : script.cpp line 2490 size 512 address 0x0x7f9a1a6510fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f9a1a65131c
+0007 : script.cpp line 2490 size 512 address 0x0x7f9a1a65153c
+0008 : script.cpp line 2490 size 512 address 0x0x7f9a1a65175c
+
+Memory manager: Memory leaks found at 2021/07/22 18h31m56s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f687f24887c
+0002 : script.cpp line 2490 size 512 address 0x0x7f687f248a9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f687f248cbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f687f248edc
+0005 : script.cpp line 2490 size 512 address 0x0x7f687f2490fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f687f24931c
+0007 : script.cpp line 2490 size 512 address 0x0x7f687f24953c
+0008 : script.cpp line 2490 size 512 address 0x0x7f687f24975c
+
+Memory manager: Memory leaks found at 2021/07/22 18h45m43s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f251648e87c
+0002 : script.cpp line 2490 size 512 address 0x0x7f251648ea9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f251648ecbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f251648eedc
+0005 : script.cpp line 2490 size 512 address 0x0x7f251648f0fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f251648f31c
+0007 : script.cpp line 2490 size 512 address 0x0x7f251648f53c
+0008 : script.cpp line 2490 size 512 address 0x0x7f251648f75c
+
+Memory manager: Memory leaks found at 2021/07/22 18h48m19s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f264d67ea9c
+0002 : script.cpp line 2490 size 512 address 0x0x7f264d67ecbc
+0003 : script.cpp line 2490 size 512 address 0x0x7f264d67eedc
+0004 : script.cpp line 2490 size 512 address 0x0x7f264d67f0fc
+0005 : script.cpp line 2490 size 512 address 0x0x7f264d67f31c
+0006 : script.cpp line 2490 size 512 address 0x0x7f264d67f53c
+0007 : script.cpp line 2490 size 512 address 0x0x7f264d67f75c
+0008 : script.cpp line 2490 size 512 address 0x0x7f264d67f97c
+
+Memory manager: Memory leaks found at 2021/07/22 18h58m20s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f9e50b0aa9c
+0002 : script.cpp line 2490 size 512 address 0x0x7f9e50b0acbc
+0003 : script.cpp line 2490 size 512 address 0x0x7f9e50b0aedc
+0004 : script.cpp line 2490 size 512 address 0x0x7f9e50b0b0fc
+0005 : script.cpp line 2490 size 512 address 0x0x7f9e50b0b31c
+0006 : script.cpp line 2490 size 512 address 0x0x7f9e50b0b53c
+0007 : script.cpp line 2490 size 512 address 0x0x7f9e50b0b75c
+0008 : script.cpp line 2490 size 512 address 0x0x7f9e50b0b97c
+
+Memory manager: Memory leaks found at 2021/07/22 19h09m52s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7fbc8fd48a9c
+0002 : script.cpp line 2490 size 512 address 0x0x7fbc8fd48cbc
+0003 : script.cpp line 2490 size 512 address 0x0x7fbc8fd48edc
+0004 : script.cpp line 2490 size 512 address 0x0x7fbc8fd490fc
+0005 : script.cpp line 2490 size 512 address 0x0x7fbc8fd4931c
+0006 : script.cpp line 2490 size 512 address 0x0x7fbc8fd4953c
+0007 : script.cpp line 2490 size 512 address 0x0x7fbc8fd4975c
+0008 : script.cpp line 2490 size 512 address 0x0x7fbc8fd4997c
+
+Memory manager: Memory leaks found at 2021/07/22 20h01m43s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f7b0248f87c
+0002 : script.cpp line 2490 size 512 address 0x0x7f7b0248fa9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f7b0248fcbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f7b0248fedc
+0005 : script.cpp line 2490 size 512 address 0x0x7f7b024900fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f7b0249031c
+0007 : script.cpp line 2490 size 512 address 0x0x7f7b0249053c
+0008 : script.cpp line 2490 size 512 address 0x0x7f7b0249075c
+
+Memory manager: Memory leaks found at 2021/07/22 20h26m43s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f6b9f5a487c
+0002 : script.cpp line 2490 size 512 address 0x0x7f6b9f5a4a9c
+0003 : script.cpp line 2490 size 512 address 0x0x7f6b9f5a4cbc
+0004 : script.cpp line 2490 size 512 address 0x0x7f6b9f5a4edc
+0005 : script.cpp line 2490 size 512 address 0x0x7f6b9f5a50fc
+0006 : script.cpp line 2490 size 512 address 0x0x7f6b9f5a531c
+0007 : script.cpp line 2490 size 512 address 0x0x7f6b9f5a553c
+0008 : script.cpp line 2490 size 512 address 0x0x7f6b9f5a575c
+
+Memory manager: Memory leaks found at 2021/07/22 20h41m24s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7fbe5c3f6a9c
+0002 : script.cpp line 2490 size 512 address 0x0x7fbe5c3f6cbc
+0003 : script.cpp line 2490 size 512 address 0x0x7fbe5c3f6edc
+0004 : script.cpp line 2490 size 512 address 0x0x7fbe5c3f70fc
+0005 : script.cpp line 2490 size 512 address 0x0x7fbe5c3f731c
+0006 : script.cpp line 2490 size 512 address 0x0x7fbe5c3f753c
+0007 : script.cpp line 2490 size 512 address 0x0x7fbe5c3f775c
+0008 : script.cpp line 2490 size 512 address 0x0x7fbe5c3f797c
+
+Memory manager: Memory leaks found at 2021/07/22 20h44m44s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f4a60888a9c
+0002 : script.cpp line 2490 size 512 address 0x0x7f4a60888cbc
+0003 : script.cpp line 2490 size 512 address 0x0x7f4a60888edc
+0004 : script.cpp line 2490 size 512 address 0x0x7f4a608890fc
+0005 : script.cpp line 2490 size 512 address 0x0x7f4a6088931c
+0006 : script.cpp line 2490 size 512 address 0x0x7f4a6088953c
+0007 : script.cpp line 2490 size 512 address 0x0x7f4a6088975c
+0008 : script.cpp line 2490 size 512 address 0x0x7f4a6088997c
+
+Memory manager: Memory leaks found at 2021/07/22 20h45m12s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7fe791bdba9c
+0002 : script.cpp line 2490 size 512 address 0x0x7fe791bdbcbc
+0003 : script.cpp line 2490 size 512 address 0x0x7fe791bdbedc
+0004 : script.cpp line 2490 size 512 address 0x0x7fe791bdc0fc
+0005 : script.cpp line 2490 size 512 address 0x0x7fe791bdc31c
+0006 : script.cpp line 2490 size 512 address 0x0x7fe791bdc53c
+0007 : script.cpp line 2490 size 512 address 0x0x7fe791bdc75c
+0008 : script.cpp line 2490 size 512 address 0x0x7fe791bdc97c
+
+Memory manager: Memory leaks found at 2021/07/23 23h29m15s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f9aa241d12c
+0002 : script.cpp line 2490 size 512 address 0x0x7f9aa241d34c
+0003 : script.cpp line 2490 size 512 address 0x0x7f9aa241d56c
+0004 : script.cpp line 2490 size 512 address 0x0x7f9aa241d78c
+0005 : script.cpp line 2490 size 512 address 0x0x7f9aa241d9ac
+0006 : script.cpp line 2490 size 512 address 0x0x7f9aa241dbcc
+0007 : script.cpp line 2490 size 512 address 0x0x7f9aa241ddec
+0008 : script.cpp line 2490 size 512 address 0x0x7f9aa241e00c
+
+Memory manager: Memory leaks found at 2021/07/23 23h31m21s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f5b1539612c
+0002 : script.cpp line 2490 size 512 address 0x0x7f5b1539634c
+0003 : script.cpp line 2490 size 512 address 0x0x7f5b1539656c
+0004 : script.cpp line 2490 size 512 address 0x0x7f5b1539678c
+0005 : script.cpp line 2490 size 512 address 0x0x7f5b153969ac
+0006 : script.cpp line 2490 size 512 address 0x0x7f5b15396bcc
+0007 : script.cpp line 2490 size 512 address 0x0x7f5b15396dec
+0008 : script.cpp line 2490 size 512 address 0x0x7f5b1539700c
+
+Memory manager: Memory leaks found at 2021/07/23 23h43m03s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f0085aca12c
+0002 : script.cpp line 2490 size 512 address 0x0x7f0085aca34c
+0003 : script.cpp line 2490 size 512 address 0x0x7f0085aca56c
+0004 : script.cpp line 2490 size 512 address 0x0x7f0085aca78c
+0005 : script.cpp line 2490 size 512 address 0x0x7f0085aca9ac
+0006 : script.cpp line 2490 size 512 address 0x0x7f0085acabcc
+0007 : script.cpp line 2490 size 512 address 0x0x7f0085acadec
+0008 : script.cpp line 2490 size 512 address 0x0x7f0085acb00c
+
+Memory manager: Memory leaks found at 2021/07/24 12h40m39s (Unknown version).
+0001 : vending.cpp line 597 size 128 address 0x0x7f0e38feb33c
+0002 : vending.cpp line 597 size 128 address 0x0x7f0e38feb83c
+0003 : vending.cpp line 597 size 128 address 0x0x7f0e38febd3c
+0004 : script.cpp line 2490 size 512 address 0x0x7f0e38a1812c
+0005 : script.cpp line 2490 size 512 address 0x0x7f0e38a1834c
+0006 : script.cpp line 2490 size 512 address 0x0x7f0e38a1856c
+0007 : script.cpp line 2490 size 512 address 0x0x7f0e38a1878c
+0008 : script.cpp line 2490 size 512 address 0x0x7f0e38a189ac
+0009 : script.cpp line 2490 size 512 address 0x0x7f0e38a18bcc
+0010 : script.cpp line 2490 size 512 address 0x0x7f0e38a18dec
+0011 : script.cpp line 2490 size 512 address 0x0x7f0e38a1900c
+0012 : vending.cpp line 616 size 255944 address 0x0x6bcf1c0
+0013 : vending.cpp line 616 size 255944 address 0x0x6b13990
+0014 : vending.cpp line 616 size 255944 address 0x0x6ad5180
+
+Memory manager: Memory leaks found at 2021/07/25 02h41m50s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f176ee1237c
+0002 : script.cpp line 2490 size 512 address 0x0x7f176ee1259c
+0003 : script.cpp line 2490 size 512 address 0x0x7f176ee127bc
+0004 : script.cpp line 2490 size 512 address 0x0x7f176ee129dc
+0005 : script.cpp line 2490 size 512 address 0x0x7f176ee12bfc
+0006 : script.cpp line 2490 size 512 address 0x0x7f176ee12e1c
+0007 : script.cpp line 2490 size 512 address 0x0x7f176ee1303c
+0008 : script.cpp line 2490 size 512 address 0x0x7f176ee1325c
+0009 : mob.cpp line 4724 size 2608 address 0x0x7f176e8b9094
+0010 : mob.cpp line 4724 size 2608 address 0x0x7f176e8e06d4
+
+Memory manager: Memory leaks found at 2021/07/25 02h42m57s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f91cec4837c
+0002 : script.cpp line 2490 size 512 address 0x0x7f91cec4859c
+0003 : script.cpp line 2490 size 512 address 0x0x7f91cec487bc
+0004 : script.cpp line 2490 size 512 address 0x0x7f91cec489dc
+0005 : script.cpp line 2490 size 512 address 0x0x7f91cec48bfc
+0006 : script.cpp line 2490 size 512 address 0x0x7f91cec48e1c
+0007 : script.cpp line 2490 size 512 address 0x0x7f91cec4903c
+0008 : script.cpp line 2490 size 512 address 0x0x7f91cec4925c
+0009 : mob.cpp line 4724 size 2608 address 0x0x7f91ce6ef094
+0010 : mob.cpp line 4724 size 2608 address 0x0x7f91ce7166d4
+
+Memory manager: Memory leaks found at 2021/07/25 02h43m26s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f5893860b44
+0002 : script.cpp line 2490 size 512 address 0x0x7f5893860d64
+0003 : script.cpp line 2490 size 512 address 0x0x7f5893860f84
+0004 : script.cpp line 2490 size 512 address 0x0x7f58938611a4
+0005 : script.cpp line 2490 size 512 address 0x0x7f58938613c4
+0006 : script.cpp line 2490 size 512 address 0x0x7f58938615e4
+0007 : script.cpp line 2490 size 512 address 0x0x7f5893861804
+0008 : script.cpp line 2490 size 512 address 0x0x7f5893861a24
+
+Memory manager: Memory leaks found at 2021/07/25 03h01m13s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f3ee28d737c
+0002 : script.cpp line 2490 size 512 address 0x0x7f3ee28d759c
+0003 : script.cpp line 2490 size 512 address 0x0x7f3ee28d77bc
+0004 : script.cpp line 2490 size 512 address 0x0x7f3ee28d79dc
+0005 : script.cpp line 2490 size 512 address 0x0x7f3ee28d7bfc
+0006 : script.cpp line 2490 size 512 address 0x0x7f3ee28d7e1c
+0007 : script.cpp line 2490 size 512 address 0x0x7f3ee28d803c
+0008 : script.cpp line 2490 size 512 address 0x0x7f3ee28d825c
+0009 : mob.cpp line 4724 size 2608 address 0x0x7f3ee237e094
+0010 : mob.cpp line 4724 size 2608 address 0x0x7f3ee23a56d4
+
+Memory manager: Memory leaks found at 2021/07/25 03h16m30s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f5b0517237c
+0002 : script.cpp line 2490 size 512 address 0x0x7f5b0517259c
+0003 : script.cpp line 2490 size 512 address 0x0x7f5b051727bc
+0004 : script.cpp line 2490 size 512 address 0x0x7f5b051729dc
+0005 : script.cpp line 2490 size 512 address 0x0x7f5b05172bfc
+0006 : script.cpp line 2490 size 512 address 0x0x7f5b05172e1c
+0007 : script.cpp line 2490 size 512 address 0x0x7f5b0517303c
+0008 : script.cpp line 2490 size 512 address 0x0x7f5b0517325c
+0009 : mob.cpp line 4724 size 2608 address 0x0x7f5b04c19094
+0010 : mob.cpp line 4724 size 2608 address 0x0x7f5b04c406d4
+
+Memory manager: Memory leaks found at 2021/07/25 05h27m21s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7fa5510a337c
+0002 : script.cpp line 2490 size 512 address 0x0x7fa5510a359c
+0003 : script.cpp line 2490 size 512 address 0x0x7fa5510a37bc
+0004 : script.cpp line 2490 size 512 address 0x0x7fa5510a39dc
+0005 : script.cpp line 2490 size 512 address 0x0x7fa5510a3bfc
+0006 : script.cpp line 2490 size 512 address 0x0x7fa5510a3e1c
+0007 : script.cpp line 2490 size 512 address 0x0x7fa5510a403c
+0008 : script.cpp line 2490 size 512 address 0x0x7fa5510a425c
+0009 : mob.cpp line 4724 size 2608 address 0x0x7fa550b4a094
+0010 : mob.cpp line 4724 size 2608 address 0x0x7fa550b716d4
+
+Memory manager: Memory leaks found at 2021/07/25 09h46m15s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f7fd415a37c
+0002 : script.cpp line 2490 size 512 address 0x0x7f7fd415a59c
+0003 : script.cpp line 2490 size 512 address 0x0x7f7fd415a7bc
+0004 : script.cpp line 2490 size 512 address 0x0x7f7fd415a9dc
+0005 : script.cpp line 2490 size 512 address 0x0x7f7fd415abfc
+0006 : script.cpp line 2490 size 512 address 0x0x7f7fd415ae1c
+0007 : script.cpp line 2490 size 512 address 0x0x7f7fd415b03c
+0008 : script.cpp line 2490 size 512 address 0x0x7f7fd415b25c
+0009 : mob.cpp line 4724 size 2608 address 0x0x7f7fd3c01094
+0010 : mob.cpp line 4724 size 2608 address 0x0x7f7fd3c286d4
+
+Memory manager: Memory leaks found at 2021/07/25 15h31m50s (Unknown version).
+0001 : script.cpp line 2490 size 512 address 0x0x7f97a833337c
+0002 : script.cpp line 2490 size 512 address 0x0x7f97a833359c
+0003 : script.cpp line 2490 size 512 address 0x0x7f97a83337bc
+0004 : script.cpp line 2490 size 512 address 0x0x7f97a83339dc
+0005 : script.cpp line 2490 size 512 address 0x0x7f97a8333bfc
+0006 : script.cpp line 2490 size 512 address 0x0x7f97a8333e1c
+0007 : script.cpp line 2490 size 512 address 0x0x7f97a833403c
+0008 : script.cpp line 2490 size 512 address 0x0x7f97a833425c
+0009 : mob.cpp line 4724 size 2608 address 0x0x7f97a7dda094
+0010 : mob.cpp line 4724 size 2608 address 0x0x7f97a7e016d4

@@ -1,0 +1,21 @@
+(07/23/2021 00:23:16) [ SQL Error ] : DB error - Connection was killed
+(07/23/2021 00:23:16) [ Debug ] : at ipban.cpp:104 - DELETE FROM `ipbanlist` WHERE `rtime` <= NOW()
+(07/23/2021 01:11:39) [ SQL Error ] : DB error - Connection was killed
+(07/23/2021 01:11:39) [ Debug ] : at account.cpp:213 - SELECT `unban_time`, `reason` FROM `gepard_block` WHERE `unique_id` = '3579164473'
+(07/23/2021 01:11:39) [ SQL Error ] : DB error - Connection was killed
+(07/23/2021 01:11:39) [ Debug ] : at loginlog.cpp:96 - INSERT INTO `loginlog`(`time`,`ip`,`user`,`rcode`, `unique_id`,`log`) VALUES (NOW(), '184.82.28.219', 'pedosan', '100', '3579164473', 'login ok')
+(07/25/2021 02:23:27) [ SQL Error ] : Access denied for user 'alice_sys'@'127.0.0.1' to database 'alice_log_db'
+(07/25/2021 02:23:27) [ Error ] : Couldn't connect with uname='alice_sys',passwd='Yd2Cn76DK3',host='127.0.0.1',port='3306',database='alice_log_db'
+(07/25/2021 02:23:27) [ Debug ] : at ipban.cpp:212
+(07/25/2021 02:26:40) [ SQL Error ] : Access denied for user 'alice_sys'@'127.0.0.1' to database 'alice_log_db'
+(07/25/2021 02:26:40) [ Error ] : Couldn't connect with uname='alice_sys',passwd='Yd2Cn76DK3',host='127.0.0.1',port='3306',database='alice_log_db'
+(07/25/2021 02:26:40) [ Debug ] : at ipban.cpp:212
+(07/25/2021 02:27:48) [ SQL Error ] : Access denied for user 'alice_sys'@'127.0.0.1' to database 'alice_log_db'
+(07/25/2021 02:27:48) [ Error ] : Couldn't connect with uname='alice_sys',passwd='Yd2Cn76DK3',host='127.0.0.1',port='3306',database='alice_log_db'
+(07/25/2021 02:27:48) [ Debug ] : at ipban.cpp:212
+(07/25/2021 02:28:50) [ SQL Error ] : Access denied for user 'alice_sys'@'127.0.0.1' to database 'alice_log_db'
+(07/25/2021 02:28:50) [ Error ] : Couldn't connect with uname='alice_sys',passwd='Yd2Cn76DK3',host='127.0.0.1',port='3306',database='alice_log_db'
+(07/25/2021 02:28:50) [ Debug ] : at ipban.cpp:212
+(07/25/2021 02:29:12) [ SQL Error ] : Access denied for user 'alice_sys'@'127.0.0.1' to database 'alice_log_db'
+(07/25/2021 02:29:12) [ Error ] : Couldn't connect with uname='alice_sys',passwd='Yd2Cn76DK3',host='127.0.0.1',port='3306',database='alice_log_db'
+(07/25/2021 02:29:12) [ Debug ] : at ipban.cpp:212
